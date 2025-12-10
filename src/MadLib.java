@@ -12,7 +12,7 @@ public class MadLib {
         String pluralNoun = "books";
         String pluralAnimal = "pythons";
         boolean trueOrFalse = true;
-        double decimalBiggerThan1 = 36.6;
+        double decimalBiggerThan1 = 56.6;
         int number1 = 8;
         int number2 = 3;
         int wholeNumberBetween1And4 = 3;
