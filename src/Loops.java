@@ -8,6 +8,7 @@ public class Loops {
         countByThrees();
         countDown();
         nestedLoop();
+        challengeLoop();
         //counting method in here
     }
         public void countUp () {
@@ -34,15 +35,26 @@ public void countByThrees() {
 
     public void nestedLoop() {
         for (int i = 1; i <= 5; i++) {
-            for (int j =1; j<=i; j++) {
+            for (int j = 1; j <= i; j++) {
 
                 System.out.print(i + " ");
             }
             System.out.println();
-            }
+        }
+    }
+public void challengeLoop(){
+
+        for (int i = 1; i <= 4; i++) {
+        for (int j =1; j<=i; j++) {
+            System.out.print(j+ " ");
+        }
+            System.out.println();
+            {
+
 
 
 
         }
 
-}
+    }
+}}
